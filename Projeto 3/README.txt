@@ -1,3 +1,5 @@
+Nota final: 15,6
+
 NOTAS:
 
 POSSÍVEIS IATAs para usar nas locations: LIS, MAD, ORY, DUB, BRU, LJU, AMS, BER, FCO, VIE (Lisboa, Madrid, Paris, Dublin, Bruxelas, Liubliana, Amsterdão, Berlim, Roma e Viena respetivamente)
